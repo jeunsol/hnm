@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/a5/93/a5933f844d2f1a5c39b10cc04634dbdb127bf9d4.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "부클레 재킷",
+      "price": 79900,
+      "choice": true,
+      "new": true,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 1,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/09/26/0926b20b3eb0844369b58a4c6c1cc1872cdc8d4b.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[2]&call=url[file:/product/main]",
+      "title": "홀 니트 칼라 가디건",
+      "price": 59900,
+      "choice": true,
+      "new": true,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 2,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/96/63/9663a79360d5e7b39d5fc142682f23607f402b51.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "타이 디테일 블라우스",
+      "price": 39900,
+      "choice": false,
+      "new": true,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 3,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/a1/a9/a1a9957a63a9baceeff260aa8aa1950a7d8059e1.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "오버사이즈 스웨트셔츠",
+      "price": 24900,
+      "choice": false,
+      "new": true,
+      "size": ["XXS", "XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 4,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/15/c1/15c1fef77be28cc139a2e61dd8ddd9cde89ef309.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "비스코스 셔츠 드레스",
+      "price": 34900,
+      "choice": true,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 5,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/68/3e/683e8407f371e7af13bfe2529f0b9c0240762e1e.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "프릴 트리밍 드레스",
+      "price": 119000,
+      "choice": false,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 6,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/31/b8/31b8e48e1ab0b6ab991401bee44f166e3cb7aa29.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "리브드 드레스",
+      "price": 34900,
+      "choice": true,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 7,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/db/bc/dbbc2f86f34217294f1510b74d6a4af2be0acdc3.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "리브니트 오프숄더 드레스",
+      "price": 39900,
+      "choice": false,
+      "new": true,
+      "size": ["XXS", "XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 8,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/e5/f1/e5f1995a28fb59365d587b3fed8ac9c816fc05b5.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "리넨 블렌드 플레어 스커트 드레스",
+      "price": 34900,
+      "choice": true,
+      "new": true,
+      "size": ["XXS", "XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 9,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/d4/41/d441fb55025e24fe47e328b5777e81119d408476.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "릴랙스핏 진",
+      "price": 39900,
+      "choice": false,
+      "new": true,
+      "size": ["32", "34", "36", "38", "40", "42", "44", "46"]
+    },
+    {
+      "id": 10,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/f4/c3/f4c3cd4e48a8cb6a144503d5bf1bdeeb9063a629.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "스키니 하이웨이스트 진",
+      "price": 29900,
+      "choice": true,
+      "new": false,
+      "size": ["32", "34", "36", "38", "40", "42", "44", "46"]
+    },
+    {
+      "id": 11,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/2b/f5/2bf50b4c08943f001055f4f7038485b0fdd113ce.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "와이드 하이웨이스트 진",
+      "price": 49900,
+      "choice": true,
+      "new": true,
+      "size": ["32", "34", "36", "38", "40", "42", "44", "46"]
+    },
+    {
+      "id": 12,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/fc/fa/fcfa5c90d561fe87f2eedb768071c3829bf45d06.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "와이드 울트라 하이웨이스트 진",
+      "price": 39900,
+      "choice": true,
+      "new": true,
+      "size": ["32", "34", "36", "38", "40", "42", "44", "46"]
+    },
+    {
+      "id": 13,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/24/79/247906dac3ef37c6aa89c404449649c747ef0243.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "로라이즈 배기 진",
+      "price": 49900,
+      "choice": false,
+      "new": false,
+      "size": ["32", "34", "36", "38", "40", "42", "44", "46"]
+    },
+    {
+      "id": 14,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/fb/e4/fbe49f714b1f93e6d4f5d0383eb3135ebcc238eb.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "더블 브레스티드 트렌치코트",
+      "price": 69900,
+      "choice": false,
+      "new": false,
+      "size": ["XXS", "XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": 15,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/2b/84/2b847bd3c29a70383bb83444f232aa42ee4eec3e.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "크롭트 보머 재킷",
+      "price": 49900,
+      "choice": false,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL"]
+    }
+  ]
+}

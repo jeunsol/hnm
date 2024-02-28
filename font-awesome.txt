@@ -1,0 +1,7 @@
+npm i json-server@0.17.4
+npm uninstall -D json-server
+npm install -g json-server@0.17.4
+
+<json-server 시작 명령어>
+npx json-server --watch db.json --port 5000
+json-server --watch db.json --port 5000

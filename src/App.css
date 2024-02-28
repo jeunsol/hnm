@@ -1,0 +1,147 @@
+.login-button {
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px;
+  cursor: pointer;
+}
+.login-button > div {
+  padding-left: 10px;
+}
+
+.nav-logo {
+  display: flex;
+  justify-content: center;
+}
+
+.menu-area {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+ul.menu-list {
+  display: flex;
+  list-style-type: none;
+}
+ul.menu-list li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.search-box {
+  border-bottom: 1px solid black;
+  padding: 5px;
+  position: absolute;
+  right: 20px;
+  top: 143px;
+}
+.search-box input {
+  border: none;
+  margin-left: 5px;
+}
+.search-box input:focus {
+  outline: none;
+}
+
+.card {
+  border: none !important;
+  margin-bottom: 30px;
+}
+.card:hover {
+  transform: scale(1.1);
+  transition: 0.3s ease-in-out;
+  z-index: 1;
+}
+
+.choice {
+  font-size: 11px;
+  color: #63786a;
+  font-weight: bold;
+  height: 20px;
+}
+
+.new-product {
+  font-size: 11px;
+  height: 20px;
+}
+
+.product-img {
+  display: flex;
+  justify-content: flex-end;
+}
+.product-img img {
+  width: 100%;
+}
+.product-info {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.add-button {
+  width: 100%;
+  margin-top: 20px;
+}
+
+
+.side-menu {
+  height: 100%;
+  width: 250px;
+  background-color: burlywood;
+  padding-top: 60px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+.side-menu .close-btn {
+  border: none;
+  background: none;
+  font-size: 36px;
+  margin-left: 50px;
+  position: absolute;
+  top: 0;
+  right: 25px;
+}
+
+.side-menu-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.side-menu-list button {
+  border: none;
+  background: none;
+  width: 120px;
+  margin: 5px;
+}
+.side-menu-list button:hover {
+  background-color: beige;
+  border-radius: 3px;
+}
+
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.burger-menu {
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+@media screen and (max-width: 62rem) {
+  .hide {
+    visibility: visible;
+  }
+  .menu-area {
+    display: none;
+  }
+  .nav-logo {
+    display: none;
+  }
+}
